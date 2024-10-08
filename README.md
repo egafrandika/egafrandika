@@ -136,8 +136,8 @@ I'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Developmen
       <br>Jenkins
     </td>
     <td align="center" width="96">
-<!--         <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" /> -->
-<!--       <br>Docusaurus -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Wikimedia_Phabricator_logo_inv.svg" width="48" height="48" alt="dart" />
+      <br>Phabricator
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/vscode.svg" width="40" height="40" alt="dart" />
