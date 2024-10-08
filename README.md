@@ -37,11 +37,11 @@ I'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Developmen
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       </a>
-      <br>Python
+      <br>JavaScript
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
+      <br>Python
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="65" height="65" />
