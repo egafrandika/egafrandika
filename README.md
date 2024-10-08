@@ -48,8 +48,8 @@ I'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Developmen
       <br>Sass
     </td>
        <td align="center" width="96">
-<!--         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65" /> -->
-<!--       <br>CSS -->
+        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="css3" width="65" height="65" />
+      <br>VueJs
     </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
