@@ -108,8 +108,8 @@ I'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Developmen
   </tr>
    <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/netlify.svg" width="48" height="48" alt="Redis" />
+      <br>Netlify
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
