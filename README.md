@@ -71,7 +71,9 @@ I'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Developmen
   <tr>
     <td align="center" width="96">
 <!--         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /> -->
-          <svg width="256px" height="222px" viewBox="0 0 256 222" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+       <?xml version="1.0" encoding="UTF-8"?>
+        <svg width="256px" height="222px" viewBox="0 0 256 222" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+            <title>Vuetify</title>
             <g>
                 <polygon fill="#1697F6" points="130.710957 49.5638261 79.6681739 137.991652 128 221.754435 192.014609 110.877217 256 0 159.307826 0"></polygon>
                 <polygon fill="#AEDDFF" points="64.0145391 110.877217 67.3668174 116.708174 115.11513 33.9657739 134.733913 0 128 0 0 0"></polygon>
