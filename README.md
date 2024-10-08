@@ -128,8 +128,8 @@ I'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Developmen
       <br>NPM
     </td>
     <td align="center" width="96">
-<!--         <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" /> -->
-<!--       <br>sentry -->
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="48" height="48" alt="dart" />
+      <br>TypeScript
     </td>
     <td align="center" width="96">
 <!--         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" /> -->
