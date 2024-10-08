@@ -1,4 +1,31 @@
 ![mygif (1)](https://github.com/user-attachments/assets/5e504efb-c99b-4ebb-bc71-9d1ac0438938)
+<div align="justify">
+
+<a href="https://www.instagram.com/rzashakeri/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@rzashakeri">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.twitter.com/rzashakeri/">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rezshakeri/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/barnamenevisiadmin/">
+<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gitlab.com/rzashakeri">
+<img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+</a>
+
+</div>
 ## Hi there! Welcome to my GitHub page! 👋
 i'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Development. I've been programming for over 3 years, continuously learning and improving my skills in various programming languages and technologies. My expertise lies in building intuitive user interfaces and smooth user experiences, ensuring that every application is efficient and easy to use. I enjoy working with modern JavaScript frameworks, like Vue.js, and I’m always excited to learn and integrate new tools and techniques that enhance frontend development.
 
