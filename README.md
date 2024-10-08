@@ -19,12 +19,12 @@
 
 </div>
 <h2>Hi there! Welcome to my GitHub page! 👋</h2>
-&nbsp;&nbsp;
+
 I'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Development. I've been programming for over 3 years, continuously learning and improving my skills in various programming languages and technologies. I enjoy working with modern JavaScript frameworks, like Vue.js, and I’m always excited to learn and integrate new tools and techniques that enhance frontend development.
 
-<h3>
+<h4 height="96">
     <br>From 🇮🇩 Indonesia, West Java, currently living in Bekasi City.<br>
-</h3>
+</h4>
 > Tools and technologies that I have worked with and am interested in
 
 <table>
