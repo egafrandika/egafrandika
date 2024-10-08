@@ -1,9 +1,8 @@
+![mygif (1)](https://github.com/user-attachments/assets/5e504efb-c99b-4ebb-bc71-9d1ac0438938)
 ## Hi there! Welcome to my GitHub page! 👋
 i'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Development. I've been programming for over 3 years, continuously learning and improving my skills in various programming languages and technologies. My expertise lies in building intuitive user interfaces and smooth user experiences, ensuring that every application is efficient and easy to use. I enjoy working with modern JavaScript frameworks, like Vue.js, and I’m always excited to learn and integrate new tools and techniques that enhance frontend development.
 
 From 🇮🇩 Indonesia, West Java, currently living in Bekasi City.
-
-![mygif (1)](https://github.com/user-attachments/assets/5e504efb-c99b-4ebb-bc71-9d1ac0438938)
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 <!--
