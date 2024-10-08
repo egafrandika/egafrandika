@@ -30,8 +30,8 @@ I'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Developmen
 <table>
   <tr>
     <td align="center" width="96">
-<!--         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /> -->
-<!--       <br>C# -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65" />
+      <br>NodeJs
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -44,12 +44,12 @@ I'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Developmen
       <br>Javascript
     </td>
     <td align="center" width="96">
-<!--         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /> -->
-<!--       <br>C++ -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="65" height="65" />
+      <br>Sass
     </td>
        <td align="center" width="96">
-<!--         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /> -->
-<!--       <br>Django -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65" />
+      <br>CSS
     </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
@@ -60,12 +60,12 @@ I'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Developmen
       <br>Rest API
     </td>
           <td align="center" width="96">
-<!--         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" /> -->
-<!--       <br>Docker -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="65" height="65" alt="Rest API" />
+      <br>ReactJs
     </td>
     <td align="center" width="96">
-<!--         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" /> -->
-<!--       <br>Nginx -->
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
+      <br>Git
     </td>
   </tr>
   <tr>
@@ -102,8 +102,8 @@ I'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Developmen
       <br>PostgreSQL
     </td>
         <td align="center" width="96">
-<!--         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" /> -->
-<!--       <br>ASP.NET -->
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="ASP.NET Core" />
+      <br>Firebase
     </td>
   </tr>
    <tr>
@@ -132,8 +132,8 @@ I'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Developmen
 <!--       <br>sentry -->
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
+<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" /> -->
+<!--       <br>Celery -->
     </td>
     <td align="center" width="96">
 <!--         <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" /> -->
