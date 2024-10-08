@@ -140,8 +140,8 @@ I'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Developmen
 <!--       <br>Docusaurus -->
     </td>
     <td align="center" width="96">
-<!--         <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" /> -->
-<!--       <br>Pytest -->
+        <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/vscode.svg" width="40" height="40" alt="dart" />
+      <br>VScode
     </td>
   </tr>
  <tr>
