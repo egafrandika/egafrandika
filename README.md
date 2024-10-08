@@ -16,6 +16,10 @@
 <a href="https://gitlab.com/egafrandika">
 <img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 </a>
+&nbsp;&nbsp;
+<a href="mailto:dikafran7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
 <h2>Hi there! Welcome to my GitHub page! 👋</h2>
