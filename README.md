@@ -20,6 +20,10 @@
 <a href="mailto:dikafran7@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+&nbsp;
+<a href="https://wa.me/085809455280">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 
 </div>
 <h2>Hi there! Welcome to my GitHub page! 👋</h2>
