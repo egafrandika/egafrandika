@@ -3,7 +3,7 @@ i'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Developmen
 
 From 🇮🇩 Indonesia, West Java, currently living in Bekasi City.
 
-![200w](https://github.com/user-attachments/assets/d364f958-b5dd-4bb2-b05f-e232b6ebf1cd)
+![mygif (1)](https://github.com/user-attachments/assets/5e504efb-c99b-4ebb-bc71-9d1ac0438938)
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 <!--
