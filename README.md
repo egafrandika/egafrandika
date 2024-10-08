@@ -70,8 +70,14 @@ I'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Developmen
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+<!--         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /> -->
+       <g>
+        <polygon fill="#1697F6" points="130.710957 49.5638261 79.6681739 137.991652 128 221.754435 192.014609 110.877217 256 0 159.307826 0"></polygon>
+        <polygon fill="#AEDDFF" points="64.0145391 110.877217 67.3668174 116.708174 115.11513 33.9657739 134.733913 0 128 0 0 0"></polygon>
+        <path d="M159.307826,0 C183.502609,79.6229565 128,221.754435 128,221.754435 L79.6681739,137.991652 L159.307826,0 Z" fill="#1867C0"></path>
+        <path d="M134.733913,0 C32.7948522,0 67.3673043,116.708174 67.3673043,116.708174 L134.733913,0 Z" fill="#7BC6FF"></path>
+    </g>
+      <br>Vuetify
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
