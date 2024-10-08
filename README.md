@@ -4,19 +4,19 @@
 <a href="https://www.instagram.com/ega_frandika/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.twitter.com/ega_frandika/">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.linkedin.com/in/egafrandika/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://gitlab.com/egafrandika">
 <img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:dikafran7@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
