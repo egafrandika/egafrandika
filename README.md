@@ -132,8 +132,8 @@ I'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Developmen
       <br>TypeScript
     </td>
     <td align="center" width="96">
-<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" /> -->
-<!--       <br>Celery -->
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/jenkins.svg" width="48" height="48" alt="dart" />
+      <br>Jenkins
     </td>
     <td align="center" width="96">
 <!--         <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" /> -->
