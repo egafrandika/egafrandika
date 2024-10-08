@@ -18,13 +18,12 @@
 </a>
 
 </div>
-<br/>
-Hi there! Welcome to my GitHub page! 👋
-<br/>
+## Hi there! Welcome to my GitHub page! 👋
+
 i'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Development. I've been programming for over 3 years, continuously learning and improving my skills in various programming languages and technologies. I enjoy working with modern JavaScript frameworks, like Vue.js, and I’m always excited to learn and integrate new tools and techniques that enhance frontend development.
-<br/>
+
 From 🇮🇩 Indonesia, West Java, currently living in Bekasi City.
-<br/>
+
 > Tools and technologies that I have worked with and am interested in
 
 <table>
