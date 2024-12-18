@@ -1,4 +1,4 @@
-![mygif (1)](https://github.com/user-attachments/assets/5e504efb-c99b-4ebb-bc71-9d1ac0438938)
+//![mygif (1)](https://github.com/user-attachments/assets/5e504efb-c99b-4ebb-bc71-9d1ac0438938)
 <div align="justify">
 
 <a href="https://www.instagram.com/ega_frandika/">
