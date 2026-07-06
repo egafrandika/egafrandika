@@ -33,7 +33,7 @@ I'm Ega Frandika, a Computer Engineer with a strong focus on Frontend Developmen
     <br>From 🇮🇩 Indonesia, West Java, currently living in Bekasi City.<br>
 </h4>
 
-<span>https://onmysite.netlify.app/</span>
+check my site: <span>https://onmysite.netlify.app/</span>
 
 ## Tools and technologies that I have worked with and am interested in
 
